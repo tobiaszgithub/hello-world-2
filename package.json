@@ -1,0 +1,18 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobiasz",
+  "license": "''",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "mongodb": "^1.4.35",
+    "mongoskin": "^1.4.13",
+    "stylus": "^0.50.0"
+  }
+}
